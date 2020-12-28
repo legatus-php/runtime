@@ -13,7 +13,8 @@
     "autoload": {
         "psr-4": {
             "Legatus\\Support\\": ["src/runtime", "src/env"]
-        }
+        },
+        "files": ["src/functions.php"]
     },
     "autoload-dev": {
         "psr-4": {
